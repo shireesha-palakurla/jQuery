@@ -11,5 +11,5 @@ $(document).ready(function(){
     });
  
 var b=$("h2").hasClass("JOOR");
-console.log(b); // This will log true or false based on whether the class is present
+console.log(b); // This will log true or false based on whether the class is present.Goto inspect-console.
 });
